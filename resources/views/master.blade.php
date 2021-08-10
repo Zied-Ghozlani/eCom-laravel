@@ -35,7 +35,7 @@
     }
 
     .slider-text{
-        background-color: lightgrey !important;
+        background-color: #d3d3d30f !important;
     }
 
     .trending-image{
@@ -55,6 +55,12 @@
 
     .search-box{
         width: 500px !important;
+    }
+
+    .cart-list-devider{
+        border-bottom: 1px solid #ccc;
+        margin-bottom: 20px;
+        padding-bottom: 20px;
     }
 
 </style>

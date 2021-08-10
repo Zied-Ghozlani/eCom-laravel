@@ -19,19 +19,27 @@ class ProductSeeder extends Seeder
             
            
             [
-                'name' => 'fridge kitchenaid',
-                'price' => '1700',
-                'description' => 'A big fridge with a very good quality',
-                'category' => 'fridge',
-                'gallery' => 'https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5508/5508007_sd.jpg'
+                'name' => 'Sharp Microwave',
+                'price' => '850',
+                'description' => 'A very good quality microwave for kitchen',
+                'category' => 'Microwave',
+                'gallery' => 'https://m.media-amazon.com/images/I/91aiQGFn+dL._AC_SL1500_.jpg'
 
             ],
             [
-                'name' => 'Condor air conditioner',
-                'price' => '1800',
-                'description' => 'Air conditioner with multifunctionnalities',
-                'category' => 'Air conditioner',
-                'gallery' => 'https://spacenet.tn/52804-large_default/-climatiseur-condor-9000-btu-chaud-froid-cs09-al14t3-o.jpg'
+                'name' => 'Oppo Mobile',
+                'price' => '1200',
+                'description' => 'A mobile with 4gb',
+                'category' => 'Mobile',
+                'gallery' => 'https://m.media-amazon.com/images/I/61sJK+-lNaL._SX679_.jpg'
+            ],
+
+            [
+                'name' => 'Sony Tv',
+                'price' => '1999',
+                'description' => 'A HD 4k flat',
+                'category' => 'TV',
+                'gallery' => 'https://www.bijlibachao.com/wp-content/uploads/2017/07/Sony-featured-Tv.jpg'
             ]
         ]);
     }
